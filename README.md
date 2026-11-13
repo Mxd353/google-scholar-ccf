@@ -12,8 +12,13 @@
 
 ## 安装
 
-1. 安装 [Tampermonkey](https://www.tampermonkey.net/)（或 Violentmonkey）。
-2. 把 `ccf-rank-google-scholar.user.js` 拖进浏览器窗口，确认安装。
+**一键安装**（装好油猴后点链接即可）：
+
+<https://raw.githubusercontent.com/Mxd353/google-scholar-ccf/main/ccf-rank-google-scholar.user.js>
+
+**本地安装**：把 `ccf-rank-google-scholar.user.js` 拖进浏览器窗口，确认安装。
+
+油猴插件：[Tampermonkey](https://www.tampermonkey.net/) 或 [Violentmonkey](https://violentmonkey.github.io/)。
 
 ## 徽章
 
